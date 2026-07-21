@@ -1,1 +1,23 @@
 /* Add CSS Styling */
+
+p.bg-pink {
+    background-color: rgb(252, 141, 155);
+    font-family: Verdana, DejaVu Sans,sans-serif;
+}
+
+div {
+    font-size: 36px;
+    color: blue;
+    background-color: none;
+}
+
+div#bg-green{
+    background-color: rgb(119, 247, 116);
+    font-size: 24px;
+    color: black;
+    font-weight: bold;
+}
+p.odd_style {
+    font-size: 24px;
+    color: black;
+}
